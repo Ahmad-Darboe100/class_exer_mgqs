@@ -12,4 +12,4 @@ function grade(pass) {
   }
 }
 
-console.log(grade(40));
+console.log(grade(90));
