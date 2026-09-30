@@ -1,5 +1,5 @@
 function grade(pass) {
-  if (pass >= 90) {
+  if (pass >= 90 && pass <= 100) {
     return "A";
   } else if (pass >= 75 && pass < 90) {
     return "B";
